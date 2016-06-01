@@ -15,4 +15,4 @@ The goal of this project is to predict the manner in which they did the exercise
 I am allowed to use any of the other variables to predict with. I'm supposed to create a report describing how the model is built, in which manner cross validation is utilised,
 what I think the expected out of sample error is, and why I made the choices I did. I should also use the choosen prediction model to predict 20 different test cases.  
 
-Link to the page: [click here]()
+Link to the page: [click here](igorhut.github.io/Practial_Machine_Learning_Poject_Assignment)

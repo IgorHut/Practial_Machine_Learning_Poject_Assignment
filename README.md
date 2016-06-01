@@ -1,7 +1,7 @@
 Practical Machine Learning Project - Quantified Self Data Analysis  
 ==================================================================
 
-### Assignment  
+## Assignment  
 Using devices such as Jawbone Up, Nike FuelBand, and Fitbit it is now possible to collect a large amount of data about 
 personal activity relatively inexpensively. These type of devices are part of the quantified self movement – a group of 
 enthusiasts who take measurements about themselves regularly to improve their health, to find patterns in their behavior, 
@@ -15,4 +15,10 @@ The goal of this project is to predict the manner in which they did the exercise
 I am allowed to use any of the other variables to predict with. I'm supposed to create a report describing how the model is built, in which manner cross validation is utilised,
 what I think the expected out of sample error is, and why I made the choices I did. I should also use the choosen prediction model to predict 20 different test cases.  
 
-Link to the page: [click here]( http://igorhut.github.io/Practial_Machine_Learning_Poject_Assignment)
+### Results and project report
+
+Link to the gh-page web page with the project report in HTML format: [click here]( http://igorhut.github.io/Practial_Machine_Learning_Poject_Assignment)
+
+**Remark**
+The HTML file is in the `gh-pages` branch.    
+The R markdown file (Rmd) is in the `master` branch.     

@@ -21,6 +21,6 @@ Link to the gh-page web page with the project report in HTML format: [click here
 
 ### Remark
 
-The `HTML` file can be found in the following repo: `igorhut.github.io.`
+The `HTML` file can be found in the following repo: `igorhut.github.io`
 
 

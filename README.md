@@ -16,10 +16,6 @@ I am allowed to use any of the other variables to predict with. I'm supposed to 
 what I think the expected out of sample error is, and why I made the choices I did. I should also use the choosen prediction model to predict 20 different test cases.  
 
 ### Results and project report
-
-<<<<<<< HEAD
 Link to the gh-page web page with the project report in HTML format: [click here]( http://igorhut.github.io)
-=======
-Link to the gh-page web page with the project report in HTML format: [click here](http://igorhut.github.io./)
->>>>>>> origin/master
+
 

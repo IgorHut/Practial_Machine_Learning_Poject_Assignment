@@ -198,7 +198,8 @@ This is quite a promising result, thus we will use **RF** algorithm to perform p
 
 ```r
 tree <- rpart(classe ~ ., data=trainSet, method="class")
-prp(tree) # this "fast" plot is better for visualisation of a complex tree than i.e.               fancyRpartPlot which would be crammed
+prp(tree) # this "fast" plot is better for visualisation of a complex tree than i.e. fancyRpartPlot which would be crammed
+
 ```
 
 ![](Practical_Mach_Learing_Proj_Assign_files/figure-html/unnamed-chunk-8-1.png)

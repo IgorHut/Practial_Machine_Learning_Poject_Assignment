@@ -17,5 +17,5 @@ what I think the expected out of sample error is, and why I made the choices I d
 
 ### Results and project report
 
-Link to the gh-page web page with the project report in HTML format: [click here]( http://igorhut.github.io/Practial_Machine_Learning_Poject_Assignment)
+Link to the gh-page web page with the project report in HTML format: [click here](http://igorhut.github.io./)
 

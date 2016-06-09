@@ -19,3 +19,8 @@ what I think the expected out of sample error is, and why I made the choices I d
 
 Link to the gh-page web page with the project report in HTML format: [click here](http://igorhut.github.io./)
 
+### Remark
+
+The `HTML` file can be found in the following repo: `igorhut.github.io.`
+
+
